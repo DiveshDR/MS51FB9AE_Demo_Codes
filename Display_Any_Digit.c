@@ -1,5 +1,6 @@
 #include "MS51_16K.H"
 
+//change the display arrray to print
 // Define segment pins
 sbit SEG_A = P1^3;  // Segment A (P1.3)
 sbit SEG_B = P0^0;  // Segment B (P0.0)
